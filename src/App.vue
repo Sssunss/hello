@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>你就是小周周吗？  0.0</h2>
+    <h2>祝你什么=好？</h2>
 
   </div>
 </template>
