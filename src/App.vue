@@ -1,11 +1,7 @@
 <template>
   <div id="app">
     <h2>呵呵</h2>
-    <h2>哈哈</h2>
-    <h2>哈dsf 哈</h2>
     <h2>1111</h2>
-    <h2>1111</h2>
-
   </div>
 </template>
 
