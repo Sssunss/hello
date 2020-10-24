@@ -2,6 +2,8 @@
   <div id="app">
     <h2>请问。。。</h2>
     <h2>你叫小周周吗   0.0</h2>
+    <img src="https://user.qzone.qq.com/83561534/infocenter"/>
+    <img src="https://user.qzone.qq.com/83561534/infocenter"/>
   </div>
 </template>
 
