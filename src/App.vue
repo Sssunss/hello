@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <h2>请问。。。</h2>
-    <h2>你叫小周周吗   0.0</h2>
-    <img src="https://user.qzone.qq.com/83561534/infocenter"/>
-    <img src="https://user.qzone.qq.com/83561534/infocenter"/>
+    <h2>是我的小祖宗吗？~~~</h2>
+    <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4038315785,1986125890&fm=26&gp=0.jpg"/>
   </div>
 </template>
 
